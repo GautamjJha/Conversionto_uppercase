@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Conversionto_uppercase/static/css/main.2543b9d3.css",
+    "main.js": "/Conversionto_uppercase/static/js/main.85ca82ea.js",
+    "static/js/787.ee165790.chunk.js": "/Conversionto_uppercase/static/js/787.ee165790.chunk.js",
+    "index.html": "/Conversionto_uppercase/index.html",
+    "main.2543b9d3.css.map": "/Conversionto_uppercase/static/css/main.2543b9d3.css.map",
+    "main.85ca82ea.js.map": "/Conversionto_uppercase/static/js/main.85ca82ea.js.map",
+    "787.ee165790.chunk.js.map": "/Conversionto_uppercase/static/js/787.ee165790.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2543b9d3.css",
+    "static/js/main.85ca82ea.js"
+  ]
+}
